@@ -4,7 +4,7 @@
 1.  Empower organizations to proactively identify issues that are impacting the Teams meeting and calling expierence. 
 2.  Enable organizations to respond quickly to escalating issues and help answer the question, "What happened during the meeting?" 
 
-The template was created as the output of hundereds of customer workshops across multiple years of effort.  The template is a community driven project and is constantly evolving due to customer and community feedback and improvements in Microsoft QoE telemetry.  New ideas and insights are incorporated and an updated teamplate is released once a quarter.
+The template was created as the output of hundereds of customer workshops across multiple years of effort.  The template is a community driven project and is constantly evolving due to customer and community feedback and improvements in Microsoft telemetry.  New ideas and insights are incorporated and an updated teamplate is released once a quarter.
 
 ### Contents
 1. **QERPBI.zip** - The QER Power BI teamplate. Includes relase notes and installation instructions (.docx), Microsoft Call Quality Connector (.pqx), and the template (.pbit)
