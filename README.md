@@ -7,11 +7,11 @@ The Quality of Experience Report (QER) Power BI template has two primary functio
 The template was created as the output of hundereds of customer workshops across multiple years of effort.  The template is a community driven project and is constantly evolving due to customer and community feedback and improvements in Microsoft QoE telemetry.  New ideas and insights are incorporated and an updated teamplate is released once a quarter.
 
 Contents:
-1. QERPBI-#.#.zip - The QER Power BI teamplate.  Includes relase notes and installation instructions (.docx), Microsoft Call Quality Connector (.pqx), and the template (.pbit)
+1. QERPBI.zip - The QER Power BI teamplate.  Includes relase notes and installation instructions (.docx), Microsoft Call Quality Connector (.pqx), and the template (.pbit)
 2. CQD-BuildingData.xlsx - A template to help organizations create a CQD Building Data file.
 3. CQD-EndpointData.xlsx - A template to help organizations create a CQD Endpoint Data file.
 4. CQD-Teamplate-Rolling-Reports.zip - A collection of templates for the CQD web UI. (legacy)
-5. QER-CQDv3-Templates-v#.# - A collection of QER templates for the CQD web UI. (legacy, commercial tenants only)
+5. QER-CQDv3-Templates.zip - A collection of QER templates for the CQD web UI. (legacy, commercial tenants only)
 
 This template provides the following reports:
 
