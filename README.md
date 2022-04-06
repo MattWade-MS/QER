@@ -1,7 +1,7 @@
 # QER
-## The Quality of Experience Report (QER) Power BI template for CQD has two primary functions
+## The Microsoft Teams Quality of Experience Report (QER) for Power BI has two primary functions
 
-1.  Empower organizations to proactively identify issues that are impacting the Teams meeting and calling expierence. 
+1.  Empower organizations to proactively identify issues that are impacting the Microsoft Teams meeting and calling expierence. 
 2.  Enable organizations to respond quickly to escalating issues and help answer the question, "What happened during the meeting?" 
 
 The template was created as the output from hundereds of customer workshops across multiple years of effort.  The template is a community driven project and is constantly evolving due to feedback and improvements in Microsoft telemetry.  New ideas and insights are incorporated and an updated template is released once a quarter.
