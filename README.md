@@ -24,7 +24,7 @@ The template was created as the output from hundereds of customer workshops acro
 ### This template provides the following reports
 
 * Search – enables searching by Meeting URL, Conference ID, Subnet, or UPN.
-* Meeting Health Details – detailed metrics for a single meeting.
+* Meeting Health Details / Call Health Details – detailed metrics for a single meeting or P2P call.
 * User Health Details – detailed metrics for a single user.
 * Media Health – high level overview of Key Health Indicators (KHI) for overall tenant meeting and calling health.
 * Media Setup – analyze media setup failures.
@@ -34,7 +34,7 @@ The template was created as the output from hundereds of customer workshops acro
 * VPN – review the impact of VPN on meeting health. (Estimated or Mapped VPN)
 * Top 10 Reports – identify areas of impact in your tenant health.
 * Dailies – review daily report of KHIs.
-* Usage – general meeting and calling usage.
+* Media Usage – general meeting and calling usage.
 * User Feedback – review user survey feedback, also known as Rate My Call.
 * Transport – identify networks that are blocking UDP.
 * Devices – review the impact of devices.
