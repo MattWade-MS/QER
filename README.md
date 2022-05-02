@@ -42,3 +42,5 @@ The template was created as the output from hundereds of customer workshops acro
 * Building Data – review the building data file in CQD.
 * PSTN Health and User Details – two reports that provide a high level summary as well as individual user health for PSTN based calls.
 * Network Metrics – two reports that display raw network metric details for jitter, packet loss, and latency. 
+
+**NOTE:** This template is provided as-is and is not an officially supported product of Microsoft.
