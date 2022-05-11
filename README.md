@@ -43,3 +43,7 @@ This template was created with two primary goals in mind:
 * Network Metrics – two reports that display raw network metric details for jitter, packet loss, and latency. 
 
 **NOTE:** This template is provided as-is and is not an officially supported product of Microsoft.
+
+### Known Issues
+1. Selecting an ISP name to enable interactive filtering will result in an error.  As a workaround please select the associated ASN # to activate the filter.
+2. Slicers are limited to 100 entries.  If you have more than 100 entires in your slicer you can leverage the search bar in the slicer.  Add a * to the end of the search to return all resutls.  Example: Bui* will return all the results that start with "Bui".
