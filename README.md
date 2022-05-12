@@ -1,10 +1,9 @@
 # QER
-## The Quality of Experience Report (QER) Power BI template for CQD has two primary functions
+## Welcome to the Microsoft Teams Quality of Experience Report (QER) for Power BI.
 
-1.  Empower organizations to proactively identify issues that are impacting the Teams meeting and calling expierence. 
+This template was created with two primary goals in mind:
+1.  Empower organizations to proactively identify issues that are impacting the Microsoft Teams meeting and calling expierence. 
 2.  Enable organizations to respond quickly to escalating issues and help answer the question, "What happened during the meeting?" 
-
-The template was created as the output of hundereds of customer workshops across multiple years of effort.  The template is a community driven project and is constantly evolving due to customer and community feedback and improvements in Microsoft QoE telemetry.  New ideas and insights are incorporated and an updated teamplate is released once a quarter.
 
 ### Contents
 1. **QERPBI.zip** - The QER Power BI teamplate. Includes relase notes and installation instructions (.docx), Microsoft Call Quality Connector (.pqx), and the template (.pbit)
@@ -24,8 +23,9 @@ The template was created as the output of hundereds of customer workshops across
 ### This template provides the following reports
 
 * Search – enables searching by Meeting URL, Conference ID, Subnet, or UPN.
-* Meeting Health Details – detailed metrics for a single meeting.
+* Meeting Health Details / Call Health Details – detailed metrics for a single meeting or P2P call.
 * User Health Details – detailed metrics for a single user.
+* Media Usage – general meeting and calling usage.
 * Media Health – high level overview of Key Health Indicators (KHI) for overall tenant meeting and calling health.
 * Media Setup – analyze media setup failures.
 * Media Reliablity – analyze media reliability issues.
@@ -34,7 +34,6 @@ The template was created as the output of hundereds of customer workshops across
 * VPN – review the impact of VPN on meeting health. (Estimated or Mapped VPN)
 * Top 10 Reports – identify areas of impact in your tenant health.
 * Dailies – review daily report of KHIs.
-* Usage – general meeting and calling usage.
 * User Feedback – review user survey feedback, also known as Rate My Call.
 * Transport – identify networks that are blocking UDP.
 * Devices – review the impact of devices.
@@ -42,3 +41,9 @@ The template was created as the output of hundereds of customer workshops across
 * Building Data – review the building data file in CQD.
 * PSTN Health and User Details – two reports that provide a high level summary as well as individual user health for PSTN based calls.
 * Network Metrics – two reports that display raw network metric details for jitter, packet loss, and latency. 
+
+**NOTE:** This template is provided as-is and is not an officially supported product of Microsoft.
+
+### Known Issues
+1. Selecting an ISP name to enable interactive filtering will result in an error.  As a workaround please select the associated ASN # to activate the filter.
+2. Slicers are limited to 100 entries.  If you have more than 100 entires in your slicer you can leverage the search bar in the slicer.  Add a * to the end of the search to return all resutls.  Example: Bui* will return all the results that start with "Bui".
