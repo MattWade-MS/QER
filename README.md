@@ -6,9 +6,9 @@ This template was created with two primary goals in mind:
 2.  Enable organizations to respond quickly to escalating issues and help answer the question, "What happened during the meeting?" 
 
 ### Update (June 6th, 2022)
-The QER is now hosted on [MS Downloads](https://www.microsoft.com/download/details.aspx?id=102291) and can be downloaded along with all the MS Power BI tempaltes listed [here](https://docs.microsoft.com/microsoftteams/cqd-power-bi-connector).
+The QER is now hosted on [MS Downloads](https://www.microsoft.com/download/details.aspx?id=102291) and can be downloaded along with all the MS Power BI templates listed [here](https://docs.microsoft.com/microsoftteams/cqd-power-bi-connector).
 
-### Contents
+### GitHub Contents
 1. **QERPBI.zip** - The QER Power BI teamplate. Includes relase notes and installation instructions (.docx), Microsoft Call Quality Connector (.pqx), and the template (.pbit)
 3. **CQD-BuildingData.xlsx** - A template to help organizations create a [CQD Building Data file](https://docs.microsoft.com/microsoftteams/cqd-upload-tenant-building-data).
 4. **CQD-EndpointData.xlsx** - A template to help organizations create a [CQD Endpoint Data file](https://docs.microsoft.com/microsoftteams/cqd-upload-tenant-building-data#endpoint-data-file).
