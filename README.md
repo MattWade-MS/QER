@@ -5,8 +5,7 @@ This template was created with two primary goals in mind:
 1.  Empower organizations to proactively identify issues that are impacting the Microsoft Teams meeting and calling expierence. 
 2.  Enable organizations to respond quickly to escalating issues and help answer the question, "What happened during the meeting?" 
 
-### Update (June 6th, 2022)
-The QER is now hosted on [MS Downloads](https://www.microsoft.com/download/details.aspx?id=102291) and can be downloaded along with all the MS Power BI templates listed [here](https://docs.microsoft.com/microsoftteams/cqd-power-bi-connector).
+The QER also hosted on [MS Downloads](https://aka.ms/qerpbi) and can be downloaded along with all the MS Power BI templates listed [here](https://docs.microsoft.com/microsoftteams/cqd-power-bi-connector).
 
 ### GitHub Contents
 1. **QERPBI.zip** - The QER Power BI teamplate. Includes relase notes and installation instructions (.docx), Microsoft Call Quality Connector (.pqx), and the template (.pbit)
@@ -39,14 +38,10 @@ The QER is now hosted on [MS Downloads](https://www.microsoft.com/download/detai
 * Dailies – review daily report of KHIs.
 * User Feedback – review user survey feedback, also known as Rate My Call.
 * Transport – identify networks that are blocking UDP.
-* Devices – review the impact of devices.
+* Devices – review the impact of audio devices.
 * Clients - review client focused metrics.
 * Building Data – review the building data file in CQD.
 * PSTN Health and User Details – two reports that provide a high level summary as well as individual user health for PSTN based calls.
-* Network Metrics – two reports that display raw network metric details for jitter, packet loss, and latency. 
+* Network Metric Reports – three reports that display raw network metric details for jitter, packet loss, and latency in daily, weekly, and scatter plot views. 
 
 **NOTE:** This template is provided as-is and is not an officially supported product of Microsoft.
-
-### Known Issues
-1. Selecting an ISP name to enable interactive filtering will result in an error.  As a workaround please select the associated ASN # to activate the filter.
-2. Slicers are limited to 100 entries.  If you have more than 100 entires in your slicer you can leverage the search bar in the slicer.  Add a * to the end of the search to return all resutls.  Example: Bui* will return all the results that start with "Bui".
