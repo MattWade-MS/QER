@@ -5,7 +5,7 @@ This template was created with two primary goals in mind:
 1.  Empower organizations to proactively identify issues that are impacting the Microsoft Teams meeting and calling expierence. 
 2.  Enable organizations to respond quickly to escalating issues and help answer the question, "What happened during the meeting?" 
 
-The QER also hosted on [MS Downloads](https://aka.ms/qerpbi) and can be downloaded along with all the MS Power BI templates listed [here](https://docs.microsoft.com/microsoftteams/cqd-power-bi-connector).
+The QER is now hosted on [MS Downloads](https://aka.ms/qerpbi) and can be downloaded along with all the MS Power BI templates listed [here](https://docs.microsoft.com/microsoftteams/cqd-power-bi-connector).
 
 ### GitHub Contents
 1. **QERPBI.zip** - The QER Power BI teamplate. Includes relase notes and installation instructions (.docx), Microsoft Call Quality Connector (.pqx), and the template (.pbit)
